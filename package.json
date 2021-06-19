@@ -1,0 +1,15 @@
+{
+  "name": "tdd",
+  "version": "1.0.0",
+  "description": "tests for a function called fizzbuzz",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "coverage": "jest --coverage"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.0.4"
+  }
+}
